@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>ININ-WJ Group, School of Automation, Beijing Institute of Technology</a>.
+subtitle: <a href='https://ac.bit.edu.cn/szdw/jsml/dhzdykzyjs1/7f7592439afd4af88117ad92d2351a75.htm'>ININ-WJ Group, School of Automation, Beijing Institute of Technology</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
