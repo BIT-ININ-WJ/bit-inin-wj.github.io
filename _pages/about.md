@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Beijing Institute of Technology</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>ININ-WJ Group, School of Automation, Beijing Institute of Technology</a>.
 
 profile:
   align: right
