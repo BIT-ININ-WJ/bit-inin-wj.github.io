@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Room 619, Teaching building No. 6, School of Automation, BIT</p>
-    <p>Email: songwj@bit.edu.cn</p>
     <p>Haidian, Beijing 100081</p>
+    <p>Email: songwj@bit.edu.cn</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
