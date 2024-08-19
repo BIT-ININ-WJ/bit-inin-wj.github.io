@@ -36,10 +36,15 @@ body.sticky-bottom-footer {
   width: 100%;
   img {
     width: 100%;
-    // height: auto;
-    // object-fit: contain;
-    // position: absolute;
+    height: auto;
   }
+}
+
+.clearfix {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
 }
 
 // TODO: redefine content layout.
