@@ -41,12 +41,14 @@ layout: default
     <div class="clearfix">{{ content }}</div>
 
     <!-- Latest posts -->
-    {% comment %} {% if site.latest_posts.enabled %}
-      <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
-      </h2>
-      {% include latest_posts.liquid %}
-    {% endif %} {% endcomment %}
+    {% comment %}
+      {% if site.latest_posts.enabled %}
+        <h2>
+          <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
+        </h2>
+        {% include latest_posts.liquid %}
+      {% endif %}
+    {% endcomment %}
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
@@ -58,10 +60,10 @@ layout: default
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
-    <h2>
-      <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
-    </h2>
-    {% include news.liquid limit=true %}
+      <h2>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+      </h2>
+      {% include news.liquid limit=true %}
     {% endif %}
 
     <!-- Social -->
