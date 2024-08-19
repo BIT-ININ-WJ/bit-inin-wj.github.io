@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ac.bit.edu.cn/szdw/jsml/dhzdykzyjs1/7f7592439afd4af88117ad92d2351a75.htm'>ININ-WJ Group, School of Automation, Beijing Institute of Technology</a>.
+subtitle: <a href='https://ac.bit.edu.cn/szdw/jsml/dhzdykzyjs1/7f7592439afd4af88117ad92d2351a75.htm'>School of Automation, Beijing Institute of Technology</a>.
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Room 619, Teaching building No. 6, School of Automation, BIT</p>
-    <p>songwj@bit.edu.cn</p>
+    <p>Email: songwj@bit.edu.cn</p>
     <p>Haidian, Beijing 100081</p>
 
 news: true # includes a list of news items
