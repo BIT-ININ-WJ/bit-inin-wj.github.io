@@ -18,8 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Song Wenjie is currently a Professor at the School of Automation, Beijing Institute of Technology. He received the B.Eng. degree in Automation from Beijing Institute of Technology in 2013, and the Ph.D. degree in Control Science and Engineering from Beijing Institute of Technology in 2019 (Supervisor: Mengyin Fu), and the PhD joint project from Princeton University in 2016-2017 (Supervisor: Alain L. Kornhauser).  His research interests include: unmanned cluster intelligent decision-making, cognitive navigation in unknown space, and multi-robot cooperative control. In these areas, he has published more than 30 papers in IEEE TCSVT, IEEE TVT, IEEE TAES, JAS, ICRA, IROS and other journals and conferences. 
