@@ -33,9 +33,10 @@ body.sticky-bottom-footer {
 
 // Profile
 .profile {
+  width: 100%;
   img {
     width: 100%;
-    height: auto;
+    // height: auto;
     // object-fit: contain;
     // position: absolute;
   }
