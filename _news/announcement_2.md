@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-PhD, MSc and undergraduate research assistant positions available. Please feel free to contact me through email. 
+PhD, MSc and undergraduate research assistant positions available. Please feel free to contact me through email.
