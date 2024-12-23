@@ -1,10 +1,10 @@
 ---
 layout: page
 title: 复杂场景动态交互下的规划决策
-description: 
+description: 动态决策
 img: assets/img/projects/单体规划.png
 importance: 1
-category: 研究方向
+category: Researches
 related_publications: true
 ---
 * 城市动态交互场景时空规划与连续决策{% cite li2024multi%}
