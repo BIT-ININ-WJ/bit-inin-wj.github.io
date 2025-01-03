@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: 静态环境风险地图启发下的规划决策
 description: with background image
 img: assets/img/12.jpg
 importance: 1
