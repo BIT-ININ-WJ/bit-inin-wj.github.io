@@ -1,10 +1,10 @@
 ---
 layout: page
 title: 静态环境风险地图启发下的规划决策
-description: with background image
-img: assets/img/12.jpg
+description: 集群智能
+img: assets/img/projects/集群智能.png
 importance: 1
-category: work
+category: Researches
 related_publications: true
 ---
 
