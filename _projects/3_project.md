@@ -2,7 +2,7 @@
 layout: page
 title: 复杂任务集群自主协同决策
 description: 集群协同
-img: assets/img/projects/多体规划.png
+img: assets/img/projects/多体决策.png
 importance: 1
 category: Researches
 related_publications: true

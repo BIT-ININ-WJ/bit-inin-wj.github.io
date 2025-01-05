@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Research Direction
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: 各小组究方向
 nav: true
 nav_order: 3
 display_categories: [Researches]
