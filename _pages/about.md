@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://ac.bit.edu.cn/szdw/jsml/dhzdykzyjs1/7f7592439afd4af88117ad92d2351a75.htm'>School of Automation, Beijing Institute of Technology</a>.
 
