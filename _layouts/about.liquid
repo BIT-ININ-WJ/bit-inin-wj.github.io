@@ -47,6 +47,13 @@ layout: default
       {% endif %}
     {% endcomment %}
 
+    {% if site.selected_projects.enabled %}
+      <h2>
+        <a href="{{ '/projects/' | relative_url }}" style="color: inherit">research directions</a>
+      </h2>
+      {% include selected_projects.liquid %}
+    {% endif %}
+
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
