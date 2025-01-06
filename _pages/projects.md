@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Direction
+title: Research direction
 permalink: /projects/
 description: 各小组研究方向
 nav: true
@@ -8,7 +8,6 @@ nav_order: 2
 display_categories: [Researches]
 horizontal: false
 ---
-
 <!-- pages/projects.md -->
 
 <div class="projects">
