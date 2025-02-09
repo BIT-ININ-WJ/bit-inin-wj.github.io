@@ -1,13 +1,14 @@
 <div class="projects">
   {% if site.selected_projects != blank %}
     {% assign selected_projects_size = site.projects | size %}
-      <div
+    <div
       class="table-responsive"
       {% if site.selected_projects.scrollable and selected_projects_size > 3 %}
-      style="max-height: 60vw"
-      {% endif %}>
-      {% assign categorized_projects = site.projects | where: "category", "Researches" %}
-      {% assign sorted_projects = categorized_projects | sort: "importance" %}
+        style="max-height: 60vw"
+      {% endif %}
+    >
+      {% assign categorized_projects = site.projects | where: 'category', 'Researches' %}
+      {% assign sorted_projects = categorized_projects | sort: 'importance' %}
       <!-- Generate cards for each project -->
       {% if page.horizontal %}
         <div class="container">

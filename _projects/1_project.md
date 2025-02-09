@@ -11,3 +11,5 @@ related_publications: true
 - 不确定未知越野场景推理描述及预测{% cite mao2024multi%}
 - 未知越野场景空地机器人协同风险地图构建
 - 未知越野场景空地主动协同探索
+
+{% include video.liquid path="[https://www.youtube.com/embed/Is321P07FD0?si=vOHtS61DJRoqyOJQ](https://www.youtube.com/embed/Is321P07FD0?si=vOHtS61DJRoqyOJQ)" class="img-fluid rounded z-depth-1" %}
