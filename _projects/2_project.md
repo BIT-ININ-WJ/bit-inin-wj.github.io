@@ -2,7 +2,7 @@
 layout: page
 title: 复杂场景动态交互下的规划决策
 description: 动态决策
-img: assets/img/projects/单体规划.png
+img: assets/img/publication_preview/li2024multi.gif
 importance: 1
 category: Researches
 related_publications: true
