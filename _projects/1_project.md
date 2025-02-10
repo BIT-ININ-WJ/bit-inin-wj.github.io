@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 静态环境风险地图启发下的规划决策
-description: 集群智能
-img: assets/img/projects/集群智能.png
+title: 未知空间认知导航与目标搜寻技术
+description: 
+img: assets/img/projects/认知导航.png
 importance: 1
 category: Researches
 related_publications: true
