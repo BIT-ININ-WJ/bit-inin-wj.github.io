@@ -5,5 +5,5 @@ description:
 img: assets/img/projects/认知导航.jpg
 importance: 1
 category: Researches
-related_publications: true
+related_publications: false
 ---

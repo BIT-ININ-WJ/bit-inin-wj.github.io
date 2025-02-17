@@ -5,7 +5,6 @@ description:
 img: assets/img/projects/强化学习多智能体.gif
 importance: 1
 category: Researches
-related_publications: true
+related_publications: false
 ---
-
 {% include video.liquid path="https://www.youtube.com/embed/BWwsgjrZUY4" %}
