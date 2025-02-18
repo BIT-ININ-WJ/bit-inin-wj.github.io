@@ -2,7 +2,7 @@
 layout: page
 title: 无人集群任务分配与协同规划
 description:
-img: assets/img/projects/强化学习多智能体.gif
+img: assets/img/publication_preview/mao2024multi.webp
 importance: 1
 category: Researches
 related_publications: false
