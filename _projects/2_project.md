@@ -9,4 +9,4 @@ related_publications: false
 ---
 
 - 挑战：环境复杂、目标多样、空间未知、场景开放
-  {% include video.liquid path="https://player.bilibili.com/player.html?isOutside=true&aid=114030039539353&bvid=BV1XBAzecETM&cid=28454160666&p=1" class="img-fluid rounded z-depth-1" controls=true %}
+  {% include video.liquid path="https://player.bilibili.com/player.html?isOutside=true&aid=114030039539353&bvid=BV1XBAzecETM&cid=28454160666&p=1&muted=1&danmaku=0" class="img-fluid rounded z-depth-1" width="100%" height="600" %}
