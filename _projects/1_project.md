@@ -9,5 +9,3 @@ related_publications: false
 ---
 
 - 挑战：结构复杂、相对定位、冲突频发、动态变化
-
-{% include video.liquid path="https://www.youtube.com/embed/BWwsgjrZUY4" %}

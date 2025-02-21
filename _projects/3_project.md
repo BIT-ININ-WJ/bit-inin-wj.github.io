@@ -8,7 +8,10 @@ category: Researches
 related_publications: false
 ---
 
-- 挑战：任务多样、柔性约束、具身一体、共识难达
+挑战：任务多样、柔性约束、具身一体、共识难达
 
-{% include video.liquid path="https://www.youtube.com/embed/ZTfsl3Qfras" %}
- 
+- 集群协作型多模态自重组轮足式移动双臂平台
+  {% include video.liquid path="https://player.bilibili.com/player.html?isOutside=true&aid=114030039535739&bvid=BV1XBAzecE99&cid=28454289461&p=1" %}
+
+- 点足式并联双足机器人平衡行走控制
+  {% include video.liquid path="https://player.bilibili.com/player.html?isOutside=true&aid=495934303&bvid=BV18K411x7p1&cid=1423545047&p=1" %}
