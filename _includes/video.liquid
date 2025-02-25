@@ -87,6 +87,8 @@
       {% endif %}
       {% if include.title %}
       title="{{ include.title }}"
+      {% if include.style %}
+      style="{{ include.style }}"
       {% endif %} />
   {% endif %}
   {% if include.caption %}
