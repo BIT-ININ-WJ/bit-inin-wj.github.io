@@ -23,3 +23,17 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+iframe.bili-embed {
+  max-width: unset;
+  width: 100%;
+  height: auto;
+
+  &[width] {
+    width: unset !important;
+  }
+
+  &[height] {
+    height: unset !important;
+  }
+}
