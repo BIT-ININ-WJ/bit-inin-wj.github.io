@@ -25,15 +25,8 @@ $max-content-width: {{ site.max_width }};
 ;
 
 iframe.bili-embed {
-  max-width: unset;
-  width: 100%;
-  height: auto;
-
-  &[width] {
-    width: unset !important;
-  }
-
-  &[height] {
-    height: unset !important;
-  }
+  width: attr(width rem) !important;
+  height: attr(height rem) !important;
+  max-width: none;
+  max-height: none;
 }
