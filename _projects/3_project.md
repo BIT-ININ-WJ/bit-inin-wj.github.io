@@ -7,11 +7,12 @@ importance: 1
 category: Researches
 related_publications: false
 ---
+
 挑战：任务多样、柔性约束、具身一体、共识难达
 
 - 集群协作型多模态自重组轮足式移动双臂平台
-  {% include video.liquid path="https://player.bilibili.com/player.html?isOutside=true&aid=114030039535739&bvid=BV1XBAzecE99&cid=28454289461&p=1&muted=1&danmaku=0" class="img-fluid rounded z-depth-1" style="width: 32rem !important; height: 18rem !important;" %}
+  {% include video.liquid path="https://player.bilibili.com/player.html?isOutside=true&aid=114030039535739&bvid=BV1XBAzecE99&cid=28454289461&p=1&muted=1&danmaku=0" class="img-fluid rounded z-depth-1" style="min-width: 32rem !important; min-height: 16rem !important;" %}
 - 点足式并联双足机器人平衡行走控制
-  {% include video.liquid path="https://player.bilibili.com/player.html?isOutside=true&aid=495934303&bvid=BV18K411x7p1&cid=1423545047&p=1&muted=1&danmaku=0" class="img-fluid rounded z-depth-1" style="width: 32rem !important; height: 18rem !important;" %}
+  {% include video.liquid path="https://player.bilibili.com/player.html?isOutside=true&aid=495934303&bvid=BV18K411x7p1&cid=1423545047&p=1&muted=1&danmaku=0" class="img-fluid rounded z-depth-1" style="min-width: 32rem !important; min-height: 16rem !important;" %}
 - 机械臂应用展示
-  {% include figure.liquid loading="eager" path="assets/img/projects/具身智能演示.gif" class="img-fluid rounded z-depth-1" %}
+  {% include figure.liquid loading="eager" path="assets/img/projects/具身智能演示.gif" class="img-fluid rounded z-depth-1" max-width="32rem" %}
