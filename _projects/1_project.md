@@ -9,3 +9,5 @@ related_publications: false
 ---
 
 - 挑战：结构复杂、相对定位、冲突频发、动态变化
+
+{% include figure.liquid loading="eager" path="assets/img/publication_preview/mao2024multi.gif" class="img-fluid rounded z-depth-1" max-width="32rem" %}
