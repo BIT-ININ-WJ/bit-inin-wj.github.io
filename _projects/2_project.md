@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 未知空间认知导航与探索搜寻
+title: 未知空间主动目标导航
 description:
 img: assets/img/projects/认知导航.jpg
 importance: 1

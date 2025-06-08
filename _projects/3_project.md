@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 多机器人设计与协作控制
+title: 机器人系统设计与控制
 description:
 img: assets/img/projects/多轮足平台.jpg
 importance: 1
